@@ -42,7 +42,7 @@ int main()
 
     }
     std::cout << "\n\nThe total of the " << HowManyDice << " rolls was " << TotalDiceRoll << ".";
-    std::cout << "Thanks for using the Dice Roller Program! Program will now close...";
+    std::cout << "\nThanks for using the Dice Roller Program! Program will now close...";
     
     return 0;
 }
